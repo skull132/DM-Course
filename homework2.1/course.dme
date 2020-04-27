@@ -13,8 +13,8 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "../_common/world.dm"
 #include "course.dm"
 #include "lazy_list.dm"
-#include "world.dm"
 // END_INCLUDE
 

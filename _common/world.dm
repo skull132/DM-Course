@@ -22,3 +22,9 @@ obj
 	set category = "Course"
 
 	main()
+
+/client/verb/restart_server()
+	set name = "Restart"
+	set category = "Course"
+
+	world.Reboot()
